@@ -4,17 +4,17 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 
 # Technologies Used:
 
-1) Firebase: User Authentication
-2) PostgreSQL: Patient Record Management
-3) ReactJS: Single Page Application (SPA)
-4) Bootstrap 5: Responsive UI Design
-5) Figma: UI/UX Design and Prototyping
-6) Flask: Backend for Model Deployment and Database CRUD Operations
-7) Naive Bayes: Disease Prediction Model
-8) Random Forest: Disease Prediction and Medication Recommendation Model
-9) Jupyter Notebooks: For model development and experimentation.
-10) Scikit-Learn: Python library for implementing machine learning algorithms Naive Bayes and Random Forest.
-11) TensorFlow: Used for additional model training to improve accuracy.
+1) **Firebase:** User Authentication
+2) **PostgreSQL:** Patient Record Management
+3) **ReactJS:** Single Page Application (SPA)
+4) **Bootstrap 5:** Responsive UI Design
+5) **Figma:** UI/UX Design and Prototyping
+6) **Flask:** Backend for Model Deployment and Database CRUD Operations
+7) **Naive Bayes:** Disease Prediction Model
+8) **Random Forest:** Disease Prediction and Medication Recommendation Model
+9) **Jupyter Notebooks:** For model development and experimentation.
+10) **Scikit-Learn:** Python library for implementing machine learning algorithms Naive Bayes and Random Forest.
+11) **TensorFlow:** Used for additional model training to improve accuracy.
 
 # Project Overview:
 
