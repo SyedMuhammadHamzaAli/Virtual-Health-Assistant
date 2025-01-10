@@ -1,23 +1,88 @@
-Following Spteps will lead you to execute the source code
-Open the project in VsCode
-Front End Execution:
-within the files open the App.js file
-open the terminal from VsCode title bar (make sure the directory within which the project is selected is indicated in terminal)(cd path/to/your/project)
-Ensure Node.js and npm are installed
-If not then -> (npm install) to install node Modules
-start the deployment server by (npm start) on port:3000
-once the frontend is deployed
+# Project Name
 
-Backend Execution:
-Opent the file name app1.py in the Backend1 folder
-Open another terminal from VsCode title bar leaving the previous terminal as it is.
-navigate to Backend1 directory by (cd. \Backend1\)
-run Pipenv shell (Virtualenv will be created)
-install related dependancies (pipenv install flask flask-sqlalchemy psycogp2 python-dotenv flask-cors)
-install the dependancies for scikit-learn, Numpy and Pandas (pip install scikit-learn numpy pandas)
-Then execute (flask run)
-Backend server will be deployes on a port: 5000
+This project consists of a frontend and backend. Follow the steps below to execute the source code and deploy both servers.
 
-other then the node module that is to be installed on the frontend server all the files and modules are prasent. 
+## Prerequisites
 
- 
+Ensure that you have the following installed on your system:
+- **Node.js** and **npm** for frontend execution
+- **Python** and **Pipenv** for backend execution
+
+### Frontend Execution (ReactJS)
+
+1. **Open the project in VSCode:**
+   - Launch your VSCode editor and open the project folder.
+
+2. **Navigate to the frontend folder:**
+   - Open `App.js` within the frontend files.
+
+3. **Open the terminal from VSCode:**
+   - Ensure that the terminal indicates the correct project directory (`cd path/to/your/project`).
+
+4. **Ensure Node.js and npm are installed:**
+   - If they are not installed, [download and install Node.js](https://nodejs.org/) first.
+
+5. **Install the node modules:**
+   - In the terminal, run the following command to install the required dependencies:
+     ```bash
+     npm install
+     ```
+
+6. **Start the frontend server:**
+   - Deploy the frontend server by running:
+     ```bash
+     npm start
+     ```
+   - The frontend will be deployed on [http://localhost:3000](http://localhost:3000).
+
+---
+
+### Backend Execution (Python Flask)
+
+1. **Navigate to the backend folder:**
+   - Open the `app1.py` file located in the `Backend1` folder.
+
+2. **Open another terminal in VSCode:**
+   - Leave the frontend terminal open and open a new terminal window.
+
+3. **Navigate to the backend directory:**
+   - In the new terminal, change the directory to `Backend1`:
+     ```bash
+     cd Backend1
+     ```
+
+4. **Set up the Python virtual environment:**
+   - Run the following command to create and activate a virtual environment:
+     ```bash
+     pipenv shell
+     ```
+
+5. **Install the required dependencies:**
+   - Install the necessary dependencies for Flask and SQLAlchemy:
+     ```bash
+     pipenv install flask flask-sqlalchemy psycopg2 python-dotenv flask-cors
+     ```
+   - Install dependencies for **scikit-learn**, **NumPy**, and **Pandas**:
+     ```bash
+     pip install scikit-learn numpy pandas
+     ```
+
+6. **Start the backend server:**
+   - Run the backend server with the following command:
+     ```bash
+     flask run
+     ```
+   - The backend will be deployed on [http://localhost:5000](http://localhost:5000).
+
+---
+
+## Notes
+
+- Other than the node modules for the frontend, all the necessary files and modules are included in this repository. 
+- Make sure both the frontend and backend servers are running simultaneously for full functionality.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
