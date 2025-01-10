@@ -16,7 +16,7 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 10) **Scikit-Learn:** Python library for implementing machine learning algorithms Naive Bayes and Random Forest.
 11) **TensorFlow:** Used for additional model training to improve accuracy.
 
-![My Skills](https://skillicons.dev/icons?i=react,flask,postgres,firebase,bootstrap,figma,naivebayes,randomforest,jupyter,scikit,tensorflow&theme=light)
+![My Skills](https://skillicons.dev/icons?i=react,flask,postgres,firebase,bootstrap,figma,naivebayes,randomforest,jupyter,scikit-learn,tensorflow&theme=light)
 
 
 
