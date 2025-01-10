@@ -50,4 +50,4 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 
 ## Video-Demo
 
-[![Video Demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID "Watch Video"](https://www.youtube.com/watch?v=rG3fxdd066c&t=19s))
+[![Video Demo](https://img.youtube.com/vi/rG3fxdd066c/0.jpg)](https://www.youtube.com/watch?v=rG3fxdd066c&t=19s "Watch the Demo")
