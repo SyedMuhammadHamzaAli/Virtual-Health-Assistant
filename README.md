@@ -6,7 +6,7 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 
 ## 🛠️ Technologies Used
 
-[![My Skills](https://skillicons.dev/icons?i=react,flask,postgres,firebase,bootstrap,figma,naivebayes,randomforest,jupyter,scikit-learn,tensorflow&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flask,postgres,firebase,bootstrap,figma, tensorflow&theme=light)](https://skillicons.dev)
 
 - **Firebase**: User Authentication
 - **PostgreSQL**: Patient Record Management
@@ -66,7 +66,7 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 
 ## 🎥 Video-Demo
 
-[Watch the demo video](https://www.example.com)
+[Watch the demo video](https://www.youtube.com/watch?v=rG3fxdd066c&t=19s)
 
 ---
 
