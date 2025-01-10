@@ -48,3 +48,6 @@ Virtual Health Assistant is an AI-powered web application designed to assist cli
 
 - **Winner**: Selected as a winner at AIINNO-Fest held at Bahria University, Islamabad, for its innovative use of AI in the healthcare sector.  
 
+## Video-Demo
+
+[![Video Demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID "Watch Video"](https://www.youtube.com/watch?v=rG3fxdd066c&t=19s))
