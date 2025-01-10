@@ -1,0 +1,69 @@
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.col1
+{
+/* border: 2px solid red; */
+display: flex;
+/* align-items: center; */
+/* padding: 20px; */
+/* justify-content: center; */
+/* align-items: center; */
+/* align-content: center; */
+}
+/* .col2
+{
+    display: flex;
+    border: 2px solid red;
+padding: 20px;
+
+
+} */
+.Heroclass
+{
+    /* background-image: url('/public/Images/SliceBackground1.png'); Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin-top: -84px;
+    z-index: -10;
+}
+.roww {
+    margin-top: -450px;
+    width: 100%;
+  }
+.h11{
+    font-weight: bold;
+}
+  .h12
+  {
+    font-weight: bold;
+    color: rgb(62, 147, 217);
+
+  }
+  .cont
+  {
+    border: 2px solid green;
+    height: 30px;
+    width: 50px;
+  }
+  .img
+  {
+    margin-left: 145px;
+    margin-top: 30px;
+    height: 400px;
+  }
+  .imgg2
+  {
+    margin-top: -250px;
+    margin-left: 110px;
+  }
+  .coll{
+    /* border: 2px solid green; */
+    margin-top: 30px;
+    height: 250px;
+  }

@@ -1,0 +1,30 @@
+a {
+    text-decoration: none; /* Remove the underline */
+    color: #feb618; /* Change the link color to white */
+    position: relative; /* Add position for the pseudo-element */
+  }
+  
+  /* Underline transition effect */
+  a:after {
+    content: '';
+    display: block;
+    height: 2px; /* Adjust the thickness of the underline */
+    width: 0;
+    background-color: #a0a0a0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: width 0.3s ease; /* Only transition the width */
+  }
+  
+  /* Styling for the link when hovered */
+  a:hover {
+    font-weight: bold; /* Make the text bold */
+    color: #a0a0a0; /* Change the link color on hover */
+    cursor: pointer;
+  }
+  
+  /* Underline transition effect on hover */
+  a:hover:after {
+    width: 100%; /* Expand the width on hover */
+  }

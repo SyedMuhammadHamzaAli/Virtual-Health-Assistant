@@ -1,0 +1,22 @@
+.signupp
+{
+    background-image: url('/public/Images/backSig.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    height: 100vh;
+    z-index: -4;
+}
+.signuppl{
+
+    margin-left: 226px;
+    margin-top: 200px;
+    color: rgb(80, 159, 228);
+}
+.appropriate
+{
+    margin-top: -72px;
+}

@@ -1,0 +1,24 @@
+.background-left {
+    /* background-image: url('path/to/your/image1.jpg'); */
+    background-image: url('/public/Images/RecordSlice3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff; /* Text color on the left column */
+    height: 100vh;
+  }
+  
+  .background-right {
+    background-image: url('/public/Images/RecordSlice\ 4.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff; /* Text color on the right column */
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  .buton{
+    margin-top: 170px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }

@@ -1,0 +1,37 @@
+.mbl
+{
+    margin-left: -115px;
+}
+.exc11
+{
+    margin-top: 20px;
+    margin-left: 14px; 
+}
+.exc22
+{
+    margin-top: 20px;
+
+    margin-left: 190px;
+    
+}
+.ccc
+{
+    background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(217,217,217,100));
+    /* border-radius: 7px; */
+    height: 840px;
+    border-radius: 40px;
+    margin-top: 80px;
+}
+.Frameeee
+{
+    background-image: url('/public/Images/FrameBg.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+    height: 155vh;
+    z-index: -1;
+    margin-top: -72px;
+}

@@ -1,0 +1,42 @@
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    /* display: block; */
+
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    margin-left: 30px;
+}
+.nav-link:hover
+{
+    font-weight: bold;
+    color: rgb(9, 80, 201);
+}
+.nav-link.nav-link::after
+{
+    content: '';
+    display: block;
+    height: 4px;
+    width: 100%;
+    background-color: rgb(9, 80, 201);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.3s ease;
+
+}
+.nav-link.nav-link:hover:after
+{
+    transform: scaleX(1);
+}
+
+.navbar-brand
+{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-left: 20px;
+}
+.navbar-brand:hover
+{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}

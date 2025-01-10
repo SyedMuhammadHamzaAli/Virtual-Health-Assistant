@@ -1,0 +1,45 @@
+.choose
+{
+    
+    background-image: url('/public/Images/chooseSlice.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    z-index: -1;
+}
+.chooseresiz
+{
+    height: 100vh;
+    margin-left: 44px;
+    margin-top: 25px;
+
+}
+.substract
+{
+    /* height: 70px;
+    width: 110px; */
+    height: 81px;
+    width: 116px;
+}
+.substract1
+{
+    height: 50px;
+    width: 50px;
+    margin-left: 36px;
+    margin-top: -80px;
+}
+.line
+{
+margin-top: -33px;
+margin-left: 22px;
+}
+.choosetext
+{
+    margin-left: 8px;
+    margin-top: -6px;
+
+}
